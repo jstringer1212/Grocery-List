@@ -1,0 +1,40 @@
+img {width: 140;
+    align-items:center;}
+body{background-color: darkgoldenrod;
+    border-color: black;
+    border-width: 200px;}
+h1{ color: crimson;
+    background-color: black;
+    text-align: center;}
+
+table{ background-color: rgb(229, 255, 0);
+    margin: 10vmin 5px 50px 52vmin;
+    border: 20px solid;
+    border-radius: 50px;
+    padding: 15px;
+}
+
+ol{padding: 11%;}
+
+td{ 
+    color: brown;
+    border:1px solid
+}
+
+.R1 {border: 20px solid;
+    border-radius: 10px;
+    padding-bottom: 100px;
+    background-color: lightblue;}
+
+header{ text-align: center;
+        font-size: 500%;
+        border-image-repeat: repeat;
+        background-size: 100px;
+        background-color: black;
+        color: rgba(157, 8, 243, 0);}
+footer{text-align: center;
+    font-size: 500%;
+    border-image-repeat: repeat;
+    background-size: 100px;
+    background-color: black;
+    color: rgba(255, 255, 255, 0);}
